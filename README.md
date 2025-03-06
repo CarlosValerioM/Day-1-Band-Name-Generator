@@ -11,7 +11,7 @@ Prerequisites
 Python 3.x installed on your system.
 Running the Script
 Clone this repository:
-git clone https://github.com/yourusername/band-name-generator.git
+git clone https://github.com/CarlosValerioM/Day-1-Band-Name-Generator.git
 Navigate to the project directory:
 cd band-name-generator
 Run the script:
