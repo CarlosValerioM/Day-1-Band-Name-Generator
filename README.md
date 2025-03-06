@@ -1,4 +1,5 @@
 Your Band Name Generator - Difficulty: Easy
+
 Band Name Generator
 A simple Python script that generates a band name by combining the name of the city you grew up in with the name of your pet.
 How It Works
