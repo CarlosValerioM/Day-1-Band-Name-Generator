@@ -36,16 +36,19 @@ cd Day-1-Band-Name-Generator
 ```
 Run the script:
 ```bash
-python band_name_generator.py
+python bandNameGenerator.py
 ```
-Example Output:
+##Example Output:
 Welcome to the Band Name Generator!
+
 Enter the city you grew up in: Seattle
+
 Enter the name of your pet: Shadow
+
 Your band name could be: Seattle Shadow
 
-Contributing:
+##Contributing:
 Feel free to fork this repository, make improvements, and submit a pull request!
 
-License:
+##License:
 This project is licensed under the MIT License.
