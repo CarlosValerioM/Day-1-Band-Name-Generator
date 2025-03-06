@@ -29,30 +29,23 @@ MIT License
 
 ```bash
 git clone https://github.com/CarlosValerioM/Day-1-Band-Name-Generator.git
+```
 Navigate to the project directory:
-bash
-Copiar
-Editar
+```bash
 cd Day-1-Band-Name-Generator
+```
 Run the script:
-bash
-Copiar
-Editar
+```bash
 python band_name_generator.py
+```
 Example Output:
-pgsql
-Copiar
-Editar
 Welcome to the Band Name Generator!
 Enter the city you grew up in: Seattle
 Enter the name of your pet: Shadow
 Your band name could be: Seattle Shadow
+
 Contributing:
 Feel free to fork this repository, make improvements, and submit a pull request!
 
 License:
 This project is licensed under the MIT License.
-
-Author:
-Carlos Valerio
-GitHub Profile
