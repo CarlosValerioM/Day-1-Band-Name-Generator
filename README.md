@@ -13,7 +13,7 @@ Running the Script
 Clone this repository:
 git clone https://github.com/CarlosValerioM/Day-1-Band-Name-Generator.git
 Navigate to the project directory:
-cd band-name-generator
+cd bandNameGenerator
 Run the script:
 python band_name_generator.py
 Example Output
